@@ -18,6 +18,10 @@ git clone https://github.com/FelixFern/Branch-And-Bound-Method/tree/main
 ```
 pip install requirement.txt
 ```
+or 
+```
+pip install scipy numpy
+```
 
 3. Opened the `Branch and Bound.ipynb` and go to the second cell and update the `c, A, B, integer_var, lb`, and `ub` variable
 4. Run the cell
