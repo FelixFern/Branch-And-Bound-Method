@@ -183,7 +183,7 @@ b = [7,11]^T
 lb=[0,0,0]
 ```
 
-Atau dalam code Python, dituliskan sebagai,
+or in Python code, it is written as,
 
 ```python
 c = np.array([4, 3, 1])
